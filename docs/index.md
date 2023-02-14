@@ -1,6 +1,6 @@
-# a guide to the destiny 2 API
+# Loadout.report documentation and friends
 
-what do you want to do?
+Credits for the setup goes to Nev, I just took the github repo :(
 
 ### "i just want to play with the API"
 
