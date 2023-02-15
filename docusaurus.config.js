@@ -38,7 +38,7 @@ const config = {
           routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/loadout-report/docs',
+          editUrl: 'https://github.com/loadout-report/docs/tree/main',
         },
         blog: false,
         theme: {
